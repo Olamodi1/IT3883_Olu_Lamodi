@@ -2,7 +2,7 @@
 # Course: IT3883/Section W01
 # Student Name: Olu Lamodi
 # Assignment Number: Assignment 2
-# Due Date: 01/24/2026
+# Due Date: 06/19/2026
 # Purpose: This program reads student names and test scores from an input file,
 #          calculates the average score for each student, and displays the results
 #          in descending order by average grade.
