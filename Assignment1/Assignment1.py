@@ -2,7 +2,7 @@
 # Course: IT3883/Section W01
 # Student Name: Olu Lamodi
 # Assignment Number: Assignment 1
-# Due Date: 01/24/2026
+# Due Date: 06/12/2026
 # Purpose: This program implements a text-based menu system that allows users to
 #          append data to an input buffer, clear the buffer, display the buffer
 #          contents, or exit the program. The buffer maintains user input across
